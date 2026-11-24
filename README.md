@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="llm-key-rotator" width="840" />
-
 # LLM Key Rotator — Multi-Provider API Key Pool with Automatic 429 Rotation (Portable x64 Build, JSON Configuration)
 
 <p><strong>LLM Key Rotator — Multi-Provider API Key Pool with Automatic 429 Rotation (Portable x64 Build, JSON Configuration): One pool, many keys, zero 429s. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
